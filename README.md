@@ -2,7 +2,7 @@
 Dataset Description  
 This dataset contains two types of labels:  
 
-Binary Classification Labels: 
+Binary Classification Labels:  
 0: normal signal  
 1: anomalous signal  
 
